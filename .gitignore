@@ -1,0 +1,51 @@
+# System files
+.DS_Store
+.py
+
+# Project folders
+A Practical Pre-Approved Loan Allocation Model Using Simple Neural Processing/
+BirthdayGift/
+DL Project/
+EcoDrive - A Software Based AI System For Sustainable And Fuel Efficient Driving/
+Efficient Clould Computing Resource Allocation To Vitual Machines Using 0:1 Knapsack Problem/
+GP Marks Certificates/
+GeuBus - Smart DBMS Based Bus Management System/
+House Price Predictor Based On Geographical Location & Other Property Attributes/
+Personal Vault/
+Portfolio For Aman Devrani/
+Resume & Cover Letter/
+ShikShaBox-Lightweight OS Virtualization For Affordable Education Labs/
+Study Material/
+
+# Documentation and reports (excluding the one we want)
+ECG_Denoising_Report.md
+ECG_Denoising_Report.pdf
+ECG_Results_Summary.md
+Hybrid_VMD_Approach.pdf
+Hybrid_VMD_Explanation.md
+REAL_DATASET_VALIDATION_RESULTS.md
+dataset_setup_guide.md
+multi_dataset_performance_summary.md
+
+# Python cache
+__pycache__/
+
+# Other Python files (excluding the one we want)
+debug_algorithm_comparison.py
+download_ptbxl_alternative.py
+download_ptbxl_dataset.py
+final_real_dataset_validation.py
+fixed_multi_dataset_denoiser.py
+guaranteed_50db_all_datasets.py
+hybrid_vmd_denoiser_50db_mit_final.py
+multi_dataset_ecg_denoiser.py
+real_dataset_validation_50db.py
+setup_ptbxl_dataset.py
+test_created_ptbxl_records.py
+test_real_ptbxl_data.py
+
+# Allow the specific file we want to track
+!adaptive_vmd_ecg_denoiser_multi_dataset_validation.py
+
+# Data folder
+ptbxl_data/
